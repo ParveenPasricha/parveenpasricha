@@ -9,7 +9,7 @@
 
 ### 🌟 About Me  
 - 🔭 I’m currently working on **[Airbnb Clone](https://airbnb-lake-theta.vercel.app/)**
-- 👯 I’m looking to collaborate on **[ShopKart E-commerce](https://github.com/SensationProjectTraining/shopKart)**
+- 👬 I’m looking to collaborate on **[ShopKart E-commerce](https://github.com/SensationProjectTraining/shopKart)**
 - 💬 Ask me about **React, Node.js, MongoDB, Tailwind CSS**
 - 📫 Reach me at **pasricha.parveen@yahoo.in**
 - ⚡ Fun fact: I love to explore new web technologies and optimize performance 🚀
