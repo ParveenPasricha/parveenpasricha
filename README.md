@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Parveen Pasricha</h1>
-<h3 align="center">🚀 MERN Stack Developer | Passionate About Building Scalable Web Apps</h3>
+<h3 align="center">🚀 Full Stack Developer | Passionate About Building Scalable Web Apps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parveenpasricha&label=Profile%20views&color=0e75b6&style=flat" alt="parveenpasricha" />
@@ -46,20 +46,45 @@
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parveenpasricha&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parveenpasricha&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parveenpasricha&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parveenpasricha&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parveenpasricha&" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parveenpasricha&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
----
+## 🚀 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parveenpasricha&theme=radical&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parveenpasricha&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+## 🔥 Latest Activity  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parveenpasricha&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+## 📫 Connect with Me  
+<p align="center">
+  <a href="https://github.com/parveenpasricha">
+    <img src="https://img.shields.io/github/followers/parveenpasricha?label=Follow&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/parveenpasricha">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</p>
+
 
 ### 🌍 Connect With Me  
 <p align="left">
