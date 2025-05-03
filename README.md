@@ -8,8 +8,7 @@
 ---
 
 ### 🌟 About Me  
-- 🔭 I’m currently working on **[Airbnb Clone](https://airbnb-lake-theta.vercel.app/)**
-- 👬 I’m looking to collaborate on **[ShopKart E-commerce](https://github.com/SensationProjectTraining/shopKart)**
+- 🔭 I’m currently working on **[SSSPL](https://ssspl.vercel.app/)**
 - 💬 Ask me about **React, Node.js, MongoDB, Tailwind CSS**
 - 📫 Reach me at **pasricha.parveen@yahoo.in**
 - ⚡ Fun fact: I love to explore new web technologies and optimize performance 🚀
@@ -70,28 +69,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=parveenpasricha&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
-## 🔥 Latest Activity  
+## 📫 Connect with Me
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parveenpasricha&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-## 📫 Connect with Me  
-<p align="center">
-  <a href="https://github.com/parveenpasricha">
-    <img src="https://img.shields.io/github/followers/parveenpasricha?label=Follow&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/parveenpasricha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/parveenpasricha">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Profile" />
+  <a href="https://www.linkedin.com/in/parveenpasricha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-
-### 🌍 Connect With Me  
-<p align="left">
-  <a href="https://fb.com/parveenpasricha" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
+  <a href="https://fb.com/parveenpasricha" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/parveenpasricha" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  <a href="https://instagram.com/parveenpasricha" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
