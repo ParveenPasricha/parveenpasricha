@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me  
-- 🔭 I’m currently working on **[SSSPL](https://ssspl.vercel.app/)**
+- 🔭 I’m currently Searching Job...
 - 💬 Ask me about **React, Node.js, MongoDB, Tailwind CSS**
 - 📫 Reach me at **pasricha.parveen@yahoo.in**
 - ⚡ Fun fact: I love to explore new web technologies and optimize performance 🚀
