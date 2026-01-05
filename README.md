@@ -1,104 +1,63 @@
+<div align="center">
 
-<div align="center" style="font-family: Inter, sans-serif;">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=45&pause=1000&color=5CF6FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Parveen+Pasricha+👋;Full+Stack+Developer;MERN+Stack+Expert;UI/UX+Enthusiast" alt="Typing SVG" />
 
-## <span style="font-size: 42px; font-weight: 800; background: linear-gradient(90deg,#5cf6ff,#ff4ecd); -webkit-background-clip: text; color: transparent;">Hi, I'm Parveen Pasricha 👋</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-ff4ecd?style=for-the-badge&logo=react" />
+  <img src="https://komarev.com/ghpvc/?username=parveenpasricha&label=Profile%20Views&color=5cf6ff&style=for-the-badge" />
+</p>
 
-### <span style="font-size:20px; color:#8b8b8b;">Full Stack Developer • MERN • UI/UX Focused</span>
+---
+
+## 🛠️ Tech Stack & Ecosystem
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,ts,php,mysql,git,github,vscode,figma&perline=7" />
+  </a>
+</p>
+
+---
+
+## 🎨 Professional Expertise
+</div>
+
+<div align="center">
+
+| ⚡ Frontend | ☁️ Backend | 🛠️ Tools |
+| :--- | :--- | :--- |
+| **React / Next.js** | **Node.js / Express** | **Git / GitHub** |
+| **TypeScript** | **MongoDB / MySQL** | **Postman** |
+| **TailwindCSS** | **Restful APIs** | **Figma Design** |
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Performance
+<img src="https://github-readme-stats.vercel.app/api?username=parveenpasricha&show_icons=true&theme=midnight-purple&hide_border=false&border_radius=10&title_color=5cf6ff&text_color=ffffff&icon_color=ff4ecd" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parveenpasricha&layout=compact&theme=midnight-purple&hide_border=false&border_radius=10&title_color=5cf6ff&text_color=ffffff" height="180" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=parveenpasricha&label=Profile%20Views&color=ff4ecd&style=flat" />
-
-</div>
-
----
-
-## 🚀 Tech Stack
-
-<div align="center" style="margin-top:20px;">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,ts,php,mysql,git,github,vscode,figma" height="90" />
-</div>
-
----
-
-## 🎨 Modern Skills Section (Card Style)
-
-<div align="center">
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="60"/><br/>
-      <b>React Ecosystem</b>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br/>
-      <b>Node.js + Express APIs</b>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br/>
-      <b>MongoDB + Aggregations</b>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br/>
-      <b>TailwindCSS UI</b>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="60"/><br/>
-      <b>TypeScript</b>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="60"/><br/>
-      <b>Git Workflow</b>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img style="margin-bottom:20px;" src="https://github-readme-stats.vercel.app/api?username=parveenpasricha&show_icons=true&theme=midnight-purple&hide_border=true" height="165" />
-<img src="https://streak-stats.demolab.com?user=parveenpasricha&theme=midnight-purple&hide_border=true" height="165" />
+## 📈 Activity & Streak
+<img src="https://streak-stats.demolab.com?user=parveenpasricha&theme=midnight-purple&hide_border=false&border_radius=10&background=1a1a1a00&ring=ff4ecd&fire=5cf6ff" width="100%" />
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parveenpasricha&layout=compact&theme=midnight-purple&hide_border=true" height="165" />
-
-</div>
-
----
-
-## ⚡ Modern Contribution Graph (Glow Effect)
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parveenpasricha&theme=react-dark&area=true&hide_border=true" />
-</div>
-
----
 
 ## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parveenpasricha&theme=dracula&no-frame=true&margin-w=10" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=parveenpasricha&theme=dracula&no-frame=true&column=4&margin-w=15" width="100%" />
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Build Something Together
+<p align="center">
+  <a href="https://linkedin.com/in/parveenpasricha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pasricha.parveen@yahoo.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/parveenpasricha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-<div align="center">
-  <a href="https://github.com/parveenpasricha"><img src="https://skillicons.dev/icons?i=github" width="55"/></a>
-  <a href="https://linkedin.com/in/parveenpasricha"><img src="https://skillicons.dev/icons?i=linkedin" width="55"/></a>
-  <a href="https://instagram.com/parveenpasricha"><img src="https://skillicons.dev/icons?i=instagram" width="55"/></a>
-  <a href="mailto:pasricha.parveen@yahoo.in"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5cf6ff&height=100&section=footer" width="100%" />
 
----
-
-<div align="center" style="opacity:0.7; margin-top:30px; font-size:14px;">
-Parveen Pasricha 
 </div>
