@@ -1,34 +1,37 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Parveen%20Pasricha&fontSize=70&animation=fadeIn&fontAlignY=35&method=twentyeight&palette=gradient" />
-</p>
-
 <div align="center">
-
-### ⚡ Full Stack Wizard | MERN Specialist | UI/UX Designer
-
-<img src="https://img.shields.io/badge/Status-Open%20To%20Work-green?style=for-the-badge&logo=github" /> 
-<img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge&logo=googlemaps" />
-
----
-
-## 🛠️ My Digital Arsenal
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,ts,js,php,mysql,figma,postman,git,github,vscode&perline=8" />
-
----
-
-## 🚀 Projects & Impact
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Parveen%20Pasricha&fontSize=70&fontAlignY=40&fontStyle=bold" width="100%"/>
 </div>
 
 <div align="center">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Next.js+Developer;Full+Stack+Engineer;UI%2FUX+Designer;Problem+Solver" />
+</div>
+
+---
+
+### 🌌 The Stack (High-End Icons)
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,mongodb,figma,vercel,git&perline=9" />
+  </a>
+</div>
+
+---
+
+### 🧩 My World in a Bento Box
+<div align="center">
 <table>
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=parveenpasricha&repo=YOUR_BEST_REPO&theme=tokyonight&show_owner=true" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parveenpasricha&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" />
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=parveenpasricha&repo=YOUR_SECOND_REPO&theme=tokyonight&show_owner=true" />
+    <td width="50%" align="center">
+       <img src="https://github-readme-stats.vercel.app/api?username=parveenpasricha&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=parveenpasricha&theme=react-dark&area=true&hide_border=true&bg_color=0D1117" width="100%" />
     </td>
   </tr>
 </table>
@@ -36,50 +39,40 @@
 
 ---
 
-## 📊 Programming DNA
-
+### ⚡ Professional Toolkit
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=parveenpasricha&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="185" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parveenpasricha&layout=compact&theme=tokyonight&hide_border=false" height="185" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=parveenpasricha&theme=tokyonight&hide_border=false" width="100%" />
+| Skill | Level | Tech |
+| :--- | :---: | :--- |
+| **Frontend** | 🚀 | Next.js 14 (App Router), Tailwind, Framer Motion |
+| **Backend** | ⚙️ | Node.js, Express, JWT, Aggregations |
+| **Database** | 💾 | MongoDB, MySQL, Redis |
+| **DevOps** | ☁️ | Vercel, Docker, GitHub Actions |
 
 </div>
 
 ---
 
-## 🏆 Hall of Fame
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parveenpasricha&theme=tokyonight&no-frame=false&column=4" width="100%" />
-</p>
+### 🏆 Milestones
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parveenpasricha&theme=darkhub&no-frame=true&column=4" width="100%" />
+</div>
 
 ---
 
-## 🤝 Let's Connect
-
+### 🤝 Connect & Socials
 <div align="center">
 
-<a href="https://linkedin.com/in/parveenpasricha" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/parveenpasricha" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:pasricha.parveen@yahoo.in" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/parveenpasricha" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/parveenpasricha"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:pasricha.parveen@yahoo.in"><img src="https://img.shields.io/static/v1?label=&message=Email&color=D14836&style=for-the-badge&logo=gmail" /></a>
+<a href="https://instagram.com/parveenpasricha"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&style=for-the-badge&logo=instagram" /></a>
 
 <br/>
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+![Progress Bar](https://github-readme-stats.vercel.app/api/pin/?username=parveenpasricha&repo=parveenpasricha&theme=vision-friendly-dark&show_owner=true)
 
 <br/>
 
-**Visitors Count**
-<br/>
-<img src="https://profile-counter.glitch.me/parveenpasricha/count.svg" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&palette=gradient" />
-</p>
