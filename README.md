@@ -35,9 +35,9 @@
 
 | Skill | Level | Tech |
 | :--- | :---: | :--- |
-| **Frontend** | 🚀 | Next.js 14 (App Router), Tailwind, Framer Motion |
+| **Frontend** | 🚀 | React, Next.js 14 (App Router), Tailwind, Framer Motion |
 | **Backend** | ⚙️ | Node.js, Express, JWT, Aggregations |
-| **Database** | 💾 | MongoDB, MySQL, Redis |
+| **Database** | 💾 | MongoDB |
 | **DevOps** | ☁️ | Vercel, Docker, GitHub Actions |
 
 </div>
